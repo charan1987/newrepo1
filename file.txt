@@ -1,3 +1,0 @@
-hi this is java file
-build and release
-devops
